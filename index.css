@@ -1,16 +1,19 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
 .website-design-child {
   position: absolute;
   top: 0;
-  left: 2px;
+  left: 0;
   background-color: rgba(229, 84, 115, 0.1);
-  width: 1724px;
-  height: 850px;
-  margin: 0 auto;
+  width: 1360px;
+  height: 602.08px;
 }
 
 .it-is-a,
 .lets-make-beautiful {
-  margin: 0;
   position: absolute;
   left: 0;
   display: inline-block;
@@ -18,18 +21,16 @@
 
 .lets-make-beautiful {
   top: 0;
-  font-size: inherit;
   font-weight: 800;
-  font-family: inherit;
-  width: 708px;
+  width: 501.5px;
 }
 
 .it-is-a {
-  top: 320px;
-  font-size: 18px;
-  line-height: 30px;
+  top: 226.67px;
+  font-size: 12.75px;
+  line-height: 21.25px;
   color: rgba(39, 39, 39, 0.6);
-  width: 634px;
+  width: 449.08px;
 }
 
 .shop-now {
@@ -38,142 +39,139 @@
 
 .shop-now-wrapper {
   position: absolute;
-  top: 442px;
+  top: 313.08px;
   left: 0;
-  border-radius: 8px;
+  border-radius: 5.67px;
   background-color: #e55473;
   display: flex;
   flex-direction: row;
-  padding: 20px 43px;
+  padding: 14.166666030883789px 30.458332061767578px;
   align-items: flex-start;
   justify-content: flex-start;
-  font-size: 20px;
+  font-size: 14.17px;
   color: #fff;
 }
 
 .lets-make-beautiful-flowers-a-parent {
   position: absolute;
-  top: 197px;
-  left: 242px;
-  width: 708px;
-  height: 506px;
+  top: 139.54px;
+  left: 170px;
+  width: 501.5px;
+  height: 358.42px;
   text-align: left;
-  font-size: 80px;
+  font-size: 45px;
 }
 
 .our-featured-flowers {
   position: absolute;
   top: 0;
-  left: 196px;
+  left: calc(50% - 138.83px);
   font-weight: 800;
 }
 
-.it-is-a1 {
+.it-is-a1,
+.our-featured-flowers-parent {
   position: absolute;
-  top: 72px;
-  left: 400px;
-  font-size: 18px;
-  line-height: 30px;
+  left: calc(50% - 210.38px);
+  width: 420.75px;
+}
+
+.it-is-a1 {
+  top: 51px;
+  font-size: 12.75px;
+  line-height: 21.25px;
   color: rgba(39, 39, 39, 0.6);
   display: inline-block;
-  width: 594px;
 }
 
 .our-featured-flowers-parent {
-  position: absolute;
-  top: 1028px;
-  left: 296px;
-  width: 594px;
-  height: 132px;
+  top: 728.17px;
+  height: 94px;
 }
 
 .group-child {
   position: absolute;
   top: 0;
   left: 0;
-  border-radius: 8px;
+  border-radius: 5.67px;
   background-color: rgba(229, 84, 115, 0.05);
-  width: 1722px;
-  height: 620px;
+  width: 1361.42px;
+  height: 439.17px;
 }
 
 .off {
   color: #e55473;
 }
 
-.hot-deal-container,
+.hot-deal-container {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 190.54px);
+  font-weight: 800;
+}
+
 .it-is-a2 {
   position: absolute;
-  display: inline-block;
-}
-
-.hot-deal-container {
-  top: 0;
-  left: 150px;
-  font-weight: 800;
-  width: 592.21px;
-}
-
-.it-is-a2 {
-  top: 72px;
-  left: 100px;
-  font-size: 18px;
-  line-height: 30px;
+  top: 51px;
+  left: calc(50% - 210.38px);
+  font-size: 12.75px;
+  line-height: 21.25px;
   color: rgba(39, 39, 39, 0.6);
   text-align: center;
-  width: 655.07px;
+  display: inline-block;
+  width: 420.75px;
 }
 
 .sign-up-wrapper {
   position: absolute;
-  top: 164px;
-  left: 253.31px;
-  border-radius: 8px;
+  top: 116.17px;
+  left: 147.33px;
+  border-radius: 5.67px;
   background-color: #e55473;
-  width: 190.79px;
   display: flex;
   flex-direction: row;
-  padding: 20px 43px;
-  box-sizing: border-box;
+  padding: 14.166666030883789px 30.458332061767578px;
   align-items: flex-start;
   justify-content: flex-start;
-  font-size: 20px;
+  font-size: 14.17px;
   color: #fff;
 }
 
 .hot-deal-sale-up-to-25-off-parent {
   position: absolute;
-  top: 230px;
-  left: 100px;
-  width: 655.07px;
-  height: 228px;
+  top: 162.92px;
+  left: calc(50% - 400.92px);
+  width: 420.75px;
+  height: 161.5px;
 }
 
 .pngwing-8-icon {
   position: absolute;
-  top: 100px;
-  left: 909px;
-  width: 284.91px;
-  height: 420px;
+  top: 70.83px;
+  left: 832.29px;
+  width: 225.25px;
+  height: 297.5px;
   object-fit: cover;
 }
 
+.group-item,
 .rectangle-parent {
   position: absolute;
-  top: 2389px;
-  left: 0;
-  width: 1722px;
-  height: 620px;
+  width: 1361.42px;
+}
+
+.rectangle-parent {
+  top: 1692.21px;
+  left: -1.42px;
+  height: 439.17px;
   text-align: left;
 }
 
 .group-item {
-  position: absolute;
   top: 0;
   left: 0;
   background-color: #111010;
-  width: 1360px;
-  height: 449px;
+  height: 318.04px;
 }
 
 .shop {
@@ -181,44 +179,39 @@
 }
 
 .flowershop {
-  top: 131px;
-  left: 526px;
+  position: absolute;
+  top: 90.67px;
+  left: 588.63px;
   font-weight: 800;
   text-align: left;
-  width: 309px;
 }
 
-.flowershop,
-.flowershopcom-all-rights,
 .it-is-a3 {
   position: absolute;
-  display: inline-block;
-}
-
-.it-is-a3 {
-  top: 204px;
-  left: 450px;
-  font-size: 18px;
-  line-height: 30px;
+  top: 148.75px;
+  left: calc(50% - 221.71px);
+  font-size: 12.75px;
+  line-height: 21.25px;
   color: rgba(255, 255, 255, 0.9);
-  width: 442.25px;
+  display: inline-block;
+  width: 442.71px;
 }
 
 .flowershopcom-all-rights {
-  top: 294px;
-  left: 554px;
-  font-size: 16px;
+  position: absolute;
+  top: 213.92px;
+  left: 554.63px;
+  font-size: 11.33px;
   color: rgba(255, 255, 255, 0.4);
-  width: 252.61px;
 }
 
 .rectangle-group {
   position: absolute;
-  top: 4418px;
-  left: 0;
-  width: 1360px;
-  height: 449px;
-  font-size: 48px;
+  top: 3129.42px;
+  left: -1.42px;
+  width: 1361.42px;
+  height: 318.04px;
+  font-size: 34px;
   color: #e55473;
 }
 
@@ -226,29 +219,26 @@
   position: absolute;
   top: 0;
   left: 0;
-  border-radius: 8px;
+  border-radius: 5.67px;
   background-color: rgba(39, 39, 39, 0.05);
-  width: 1172px;
-  height: 320px;
+  width: 1020px;
+  height: 226.67px;
 }
 
 .group-icon {
   position: absolute;
   top: 0;
-  left: 103.1px;
-  width: 86.41px;
-  height: 88px;
+  left: 100.58px;
+  width: 62.33px;
+  height: 62.33px;
 }
 
 .same-day-delivery {
   position: absolute;
-  top: 112px;
+  top: 79.33px;
   left: 0;
-  line-height: 35px;
+  line-height: 24.79px;
   font-weight: 600;
-  display: inline-block;
-  width: 365.28px;
-  height: 35px;
 }
 
 .group-child1,
@@ -256,144 +246,105 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 365.28px;
-  height: 147px;
+  width: 264px;
+  height: 104.33px;
 }
 
 .group-child1 {
-  left: 66.77px;
-  width: 86.41px;
-  height: 88px;
+  left: 80.75px;
+  width: 62.33px;
+  height: 62.33px;
 }
 
-.fresh-flowers-local {
-  position: absolute;
-  top: 112px;
-  left: 0;
-  line-height: 35px;
-  font-weight: 600;
-  display: inline-block;
-  width: 310.29px;
-  height: 35px;
-}
-
+.group-child2,
 .group-div {
   position: absolute;
   top: 0;
-  left: 309.31px;
-  width: 310.29px;
-  height: 147px;
+  left: 334.33px;
+  width: 224px;
+  height: 104.33px;
 }
 
-.free-support,
 .group-child2 {
-  position: absolute;
-  top: 0;
-  left: 30.44px;
-  width: 86.41px;
-  height: 88px;
-}
-
-.free-support {
-  top: 112px;
-  left: 0;
-  line-height: 35px;
-  font-weight: 600;
-  display: inline-block;
-  width: 198.35px;
-  height: 35px;
+  left: 40.38px;
+  width: 62.33px;
+  height: 62.33px;
 }
 
 .group-parent,
 .group-parent1 {
   position: absolute;
   top: 0;
-  left: 559.71px;
-  width: 198.35px;
-  height: 147px;
+  left: 629px;
+  width: 143px;
+  height: 104.33px;
 }
 
 .group-parent {
-  top: 86px;
-  left: 207px;
-  width: 758.06px;
+  top: 60.92px;
+  left: 123.96px;
+  width: 772px;
 }
 
 .rectangle-container {
   position: absolute;
-  top: 1945px;
-  left: 88px;
-  width: 1172px;
-  height: 320px;
-  font-size: 24px;
-  color: #272727cc;
+  top: 1374.88px;
+  left: 170px;
+  width: 1020px;
+  height: 226.67px;
+  font-size: 17px;
+  color: rgba(39, 39, 39, 0.8);
 }
 
 .rectangle-div {
   position: absolute;
   top: 0;
   left: 0;
-  border-radius: 300px 300px 0 0;
+  border-radius: 212.5px 212.5px 0 0;
   background-color: rgba(5, 151, 160, 0.15);
-  width: 395px;
-  height: 506.88px;
+  width: 328.67px;
+  height: 381.08px;
 }
 
 .pink-flower-tree {
   position: absolute;
-  top: 537.02px;
-  left: 80.87px;
+  top: 403.75px;
+  left: 100.58px;
   text-decoration: underline;
-  line-height: 35px;
-  display: inline-block;
-  width: 154.08px;
-  height: 32.98px;
+  line-height: 24.79px;
 }
 
 .pngwing-5-icon {
   position: absolute;
-  top: 110.23px;
-  left: 40.01px;
-  width: 314.98px;
-  height: 348.6px;
+  top: 82.88px;
+  left: 33.29px;
+  width: 262.08px;
+  height: 262.08px;
   object-fit: cover;
 }
 
+.group-child3,
 .rectangle-parent1 {
   position: absolute;
   top: 0;
-  left: 300px;
-  width: 395px;
-  height: 570px;
-}
-
-.pink-flower-tree1 {
-  position: absolute;
-  top: 537.02px;
-  left: 70.3px;
-  text-decoration: underline;
-  line-height: 35px;
-  display: inline-block;
-  width: 135.36px;
-  height: 32.98px;
+  left: 345.67px;
+  width: 328.67px;
+  height: 428.75px;
 }
 
 .group-child3 {
-  position: absolute;
-  top: 0;
   left: 0;
-  border-radius: 300px 300px 0 0;
+  border-radius: 212.5px 212.5px 0 0;
   background-color: rgba(167, 33, 98, 0.15);
-  width: 347px;
-  height: 506.88px;
+  height: 381.08px;
 }
 
 .pngwing-6-icon {
   position: absolute;
-  top: 103.64px;
-  left: 40.38px;
-  width: 231.83px;
-  height: 403.24px;
+  top: 77.92px;
+  left: 53.83px;
+  width: 219.58px;
+  height: 303.17px;
   object-fit: cover;
 }
 
@@ -401,37 +352,34 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 347px;
-  height: 570px;
+  width: 328.67px;
+  height: 428.75px;
 }
 
 .pink-flower-tree2 {
   position: absolute;
-  top: 553.98px;
-  left: 75.16px;
+  top: 403.75px;
+  left: 101.29px;
   text-decoration: underline;
-  line-height: 35px;
-  display: inline-block;
-  width: 144.72px;
-  height: 34.02px;
+  line-height: 24.79px;
 }
 
 .group-child4 {
   position: absolute;
   top: 0;
   left: 0;
-  border-radius: 300px 300px 0 0;
+  border-radius: 212.5px 212.5px 0 0;
   background-color: rgba(71, 125, 17, 0.15);
-  width: 371px;
-  height: 522.88px;
+  width: 328.67px;
+  height: 381.08px;
 }
 
 .pngwing-7-icon {
   position: absolute;
-  top: 65.12px;
-  left: 42.38px;
-  width: 251.06px;
-  height: 457.77px;
+  top: 47.46px;
+  left: 53.13px;
+  width: 222.42px;
+  height: 333.63px;
   object-fit: cover;
 }
 
@@ -439,46 +387,39 @@
 .pink-flower-tree-group {
   position: absolute;
   top: 0;
-  left: 695px;
-  width: 371px;
-  height: 588px;
+  left: 691.33px;
+  width: 328.67px;
+  height: 428.75px;
 }
 
 .group-parent2 {
-  top: 1212px;
-  left: 148px;
-  width: 1066px;
-  font-size: 24px;
+  top: 855.67px;
+  left: 170px;
+  width: 1020px;
+  font-size: 17px;
 }
 
 .instagram {
   position: absolute;
   top: 0;
-  left: 600px;
-  /* width: 300px;
-  margin-left: auto; */
+  left: calc(50% - 63.75px);
   font-weight: 800;
 }
 
 .instagram-parent {
   position: absolute;
-  top: 3137px;
-  /* left: 350px; */
-  width: 594px;
-  margin-left: auto;
-  height: 132px;
-  text-align: center;
-  font-size: 40px;
-  color: #272727;
-  font-family: lato;
+  top: 2222.04px;
+  left: calc(50% - 210.38px);
+  width: 420.75px;
+  height: 94px;
 }
 
 .website-design-item {
   position: absolute;
-  top: 3317px;
-  left: 242px;
-  width: 299px;
-  height: 376px;
+  top: 2349.54px;
+  left: 170px;
+  width: 242.25px;
+  height: 280.5px;
   object-fit: cover;
 }
 
@@ -488,10 +429,10 @@
 .website-design-child1,
 .website-design-inner {
   position: absolute;
-  top: 3317px;
-  left: 467px;
-  width: 317px;
-  height: 376px;
+  top: 2349.54px;
+  left: 429.25px;
+  width: 242.25px;
+  height: 280.5px;
   object-fit: cover;
 }
 
@@ -499,141 +440,143 @@
 .pngwing-10-icon,
 .rectangle-icon,
 .website-design-child1 {
-  left: 718px;
+  left: 688.5px;
 }
 
 .group-child5,
 .pngwing-10-icon,
 .website-design-child1 {
-  left: 969px;
-  width: 316px;
+  left: 947.75px;
 }
 
 .group-child5,
 .pngwing-10-icon {
-  top: 73px;
-  left: 900px;
-  width: 500px;
-  height: 629.92px;
+  top: 35.42px;
+  left: 740.21px;
+  width: 449.79px;
+  height: 566.67px;
 }
 
 .group-child5 {
   top: 0;
   left: 0;
-  border-radius: 8px;
-  width: 1045px;
-  height: 356px;
+  border-radius: 5.67px;
+  width: 1020px;
+  height: 318.04px;
 }
 
-.coupon-for-first,
 .get-the-latest {
   position: absolute;
-  display: inline-block;
+  top: 0;
+  left: calc(50% - 132px);
+  font-weight: 800;
 }
 
-.get-the-latest {
-  top: 0;
-  left: 200px;
-  font-weight: 800;
-  width: 293.24px;
-  height: 38.06px;
+.coupon-for-first {
+  position: absolute;
+  top: 45.33px;
+  left: calc(50% - 83.13px);
+  font-size: 12.75px;
+  line-height: 21.25px;
+  color: rgba(39, 39, 39, 0.6);
 }
 
 .get-the-latest-deals-parent,
 .group-child6 {
   position: absolute;
   top: 0;
-  left: 100px;
-  width: 293.24px;
-  height: 74.53px;
+  left: calc(50% - 132.46px);
+  width: 264px;
+  height: 67.33px;
 }
 
 .group-child6 {
-  left: 200px;
-  border-radius: 8px;
+  left: calc(50% - 247.92px);
+  border-radius: 5.67px;
   background-color: #fff;
-  width: 507.99px;
-  height: 50.74px;
+  width: 495.83px;
+  height: 45.33px;
 }
 
 .enter-your-email {
   position: absolute;
-  top: 18.68px;
-  left: 300px;
-  display: inline-block;
-  width: 210px;
-  height: 20px;
+  /* top: 10px; */
+  left: calc(50% - 232.33px);
+  width: 400px;
+  height: 35px;
 }
 
 .group-child7,
 .rectangle-parent3 {
   position: absolute;
   top: 0;
-  width: 507.99px;
-  height: 50.74px;
+  left: calc(50% - 306.71px);
+  width: 495.83px;
+  height: 45.33px;
 }
 
 .group-child7 {
-  border-radius: 8px;
+  left: calc(50% - 53.13px);
+  border-radius: 5.67px;
   background-color: #e55473;
-  width: 153.49px;
+  width: 106.25px;
 }
 
 .subscribe {
   position: absolute;
-  top: 14.27px;
-  left: 47px;
+  top: 12.95px;
+  left: 21.96px;
   display: inline-block;
-  width: 90.05px;
-  height: 21.75px;
-  text-align: center;
+  width: 62.33px;
+  height: 19.43px;
 }
 
 .rectangle-parent4 {
   position: absolute;
   top: 0;
-  width: 153.49px;
-  height: 50.74px;
-  left: 550px;
-
+  left: calc(50% + 200.46px);
+  width: 106.25px;
+  height: 45.33px;
   text-align: left;
-  font-size: 20px;
+  font-size: 14.17px;
   color: #fff;
 }
 
 .group-parent3,
 .group-parent4 {
   position: absolute;
-  width: 542.46px;
+  left: calc(50% - 306.71px);
+  width: 613.42px;
 }
 
 .group-parent4 {
-  top: 151.32px;
-  height: 50.74px;
-  font-size: 16px;
+  top: 100.58px;
+  height: 45.33px;
+  font-size: 11.33px;
   color: rgba(39, 39, 39, 0.6);
 }
 
 .group-parent3 {
-  top: 58px;
-  height: 202.06px;
+  top: 86.42px;
+  height: 145.92px;
 }
 
 .rectangle-parent2 {
   position: absolute;
-  top: 3841px;
-  left: 181px;
-  width: 1045px;
-  height: 356px;
+  top: 2720.71px;
+  left: 170px;
+  width: 1020px;
+  height: 318.04px;
 }
 
 .website-design {
   position: relative;
   background-color: #fff;
   width: 100%;
-  height: 4867px;
+  height: 3447.46px;
+  overflow: hidden;
   text-align: center;
-  font-size: 40px;
-  color: #272727;
-  font-family: lato;
+  font-size: 28.33px;
+  color: var(--color-gray-100);
+  font-family: Lato;
 }
