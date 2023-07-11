@@ -576,10 +576,15 @@ body {
   height: 330px;
   background: #df5b5b;
   top: 3100px;
+  text-align: center;
   border-width: 2px;
   border-style: solid;
   border-color: black;
   /* border-radius: 10px solid black; */
+  border-radius: 10px;
+  /* overflow: hidden; */
+  perspective: 1px;
+
 }
 
 .comment p {
@@ -587,15 +592,17 @@ body {
 }
 
 .comment-review {
+  color: #fff;
   height: 100px;
   width: 250px;
   display: inline-block;
   background-color: #877c7c57;
-  text-align: center center;
+  text-align: center;
   margin-right: 50px;
-  padding-top: 50px;
+  padding-top: 30px;
   border: #111010;
-  border-radius: 5px solid black;
+  align-items: center;
+
 }
 
 .website-design {
